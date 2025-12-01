@@ -7,7 +7,7 @@ from urllib.parse import urlparse, urljoin
 
 # Configuration
 start_dir = "."
-output_csv = "brokenlist.csv"
+output_csv = "brokenlinks.csv"
 exclude_dirs = ["node_modules", ".git", "profile", "outputs", ".config"]
 file_extensions = [".md", ".MDX", ".html", ".json", ".yaml", ".py", ".ipynb"]
 
