@@ -77,3 +77,4 @@ htmlcov/
 
 # Google cloud credentials generated during CI
 gha-creds-*.json
+spelling_errors.md
